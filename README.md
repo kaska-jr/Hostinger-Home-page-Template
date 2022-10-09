@@ -1,2 +1,2 @@
-# Hostinger-clone
-Cloned the HOSTINGER Homepage using HTML, CSS &amp; JS(No-FrameWork)
+# Hostinger-Home-page Template
+Tools: HTML, CSS &amp; JS(No-FrameWork)
